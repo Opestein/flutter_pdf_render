@@ -1,0 +1,2 @@
+/Users/folarin/development/flutter_plugins/flutter_pdf_render/example/android/app/.cxx/Debug/4e1t1t4x/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/folarin/development/flutter_plugins/flutter_pdf_render/example/android/app/.cxx/Debug/4e1t1t4x/armeabi-v7a/CMakeFiles/rebuild_cache.dir

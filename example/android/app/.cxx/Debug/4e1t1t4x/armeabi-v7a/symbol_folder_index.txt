@@ -1,0 +1,1 @@
+/Users/folarin/development/flutter_plugins/flutter_pdf_render/example/build/app/intermediates/cxx/Debug/4e1t1t4x/obj/armeabi-v7a
